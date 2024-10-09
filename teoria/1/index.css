@@ -1,0 +1,30 @@
+html {
+    background-color: aliceblue;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 30px;
+    text-align: center;
+}
+
+dl, ol, ul {
+    margin-right: auto;
+}
+
+dt {
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+    font-family: Verdana;
+}
+
+blockquote {
+    border: 1px solid black;
+    padding: 10px 40px 0px 40px;
+    background-color: white;
+}
